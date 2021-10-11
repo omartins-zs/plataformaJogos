@@ -6,7 +6,7 @@ namespace plataformaJogos
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Esta e a plataformade jogos");
         }
     }
 }
