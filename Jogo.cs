@@ -16,6 +16,10 @@ namespace plataformaJogos
 
         public string lojaDisponivel { get; set; }
 
+        public string valorLojaFisico { get; set; }
+
+        public string valorOnline { get; set; }
+
     }
 
 }
